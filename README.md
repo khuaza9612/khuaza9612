@@ -1,6 +1,7 @@
 #  👋  Hello, i'm  Kevin Huaza. 
 💻 Full Stack | Software Developer. <br>
 📫 How to contact me: andresnavia-96@hotmail.com.
+💻 Briefcase:https://portafolio-beta-jade.vercel.app/
 
 <div align="center">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=khuaza9612&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
