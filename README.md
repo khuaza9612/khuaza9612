@@ -66,7 +66,13 @@ Take a look at my work.
   </a>
   
 </p>
-  ## 🛠️ My Skills
+ 
+   ## 🙋‍♂️ Contact me: 
+
+
+<a href="https://www.linkedin.com/in/kevinandreshuazanavia-desarrolladorweb/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
 </br>
  
 
