@@ -64,14 +64,16 @@ Take a look at my work.
    <a href="">
     <img alt="SEQUELIZE" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   </a>
-</p>
-</br>
-  ## 🙋‍♂️ Contact me: 
+   ## 🙋‍♂️ Contact me: 
 
 
 <a href="https://www.linkedin.com/in/kevinandreshuazanavia-desarrolladorweb/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
+</p>
+  
+</br>
+ 
 
 <br>
 <br>
