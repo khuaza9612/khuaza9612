@@ -4,6 +4,10 @@
 
 💻 Briefcase:https://portafolio-beta-jade.vercel.app/
 
+Take a look at my work.
+
+<img src="https://user-images.githubusercontent.com/85205823/192325244-1e46ba81-e6da-4f26-b3f0-ff3fd068a8eb.gif"/>
+
 <div align="center">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=khuaza9612&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
 <img height="ediem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuaza9612&layout=compact&langs_count=7&theme=blueberry"/>
